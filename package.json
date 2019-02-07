@@ -1,0 +1,15 @@
+{
+  "name": "weatheralert",
+  "version": "1.0.0",
+  "description": "parse NOAA weather alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfeed-to-rss": "^1.1.1",
+    "rss-parser": "^3.6.2"
+  }
+}
